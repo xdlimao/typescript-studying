@@ -13,3 +13,4 @@ no packagejson script eu criei o start
 usar o comando npm run |nome-script| para rodar ele
 
 -Ver depois como configurar o tsconfig direito
+.
